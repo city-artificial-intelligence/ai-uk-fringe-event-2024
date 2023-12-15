@@ -32,9 +32,9 @@ This event aims at showcasing the AI research conducted at [City, University of 
 13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions)
 
 14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA)
-- Prof. Neil Maiden	(Bayes Bussiness school)
-- Christina Malamateniou	(School of Health & Psychological Sciences)
-- TBC
+- [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Bussiness school)
+- [Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
+- [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
 - TBC
 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
