@@ -14,17 +14,23 @@ This event aims at showcasing the AI research conducted at [City, University of 
 ## Agenda
 
 9:00-09:30 &ensp; Registration, poster set up and coffee.
+
 9:30-09:45 &ensp; Welcome to the Fringe event.
+
 9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions)
+
 10:30-11:30 &ensp; Coffe break and Poster session (1h)
+
 11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA)
-- Member from CitAi group (Department of Computer Science)
+- Member from CitAI group (Department of Computer Science)
 - Member from the ACS-ML group (Department of Computer Science) 
-- Member from teh Department of Engineering
+- Member from the Department of Engineering
 - Member from the Department of Mathematics
   
 12:30-13:45 &ensp; Lunch and Networking (1h15min)
+
 13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions)
+
 14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA)
 - Prof. Neil Maiden	(Bayes Bussiness school)
 - Christina Malamateniou	(School of Health & Psychological Sciences)
@@ -32,6 +38,8 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - TBC
 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
+
 16:30-17:00 &ensp; Panel about the Future of AI @ City and Project opportunities
+
 17:00-17:15 &ensp; Closing
  
