@@ -9,7 +9,9 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - **Format:** Up to 200 participants <ins>in person</ins> and live-streamed for online participants. 
 - **Registration:** TBA
 - **Live-stream and full recording:** TBA
-- **Photos:** TBA 
+- **Photos:** TBA
+
+**Call for posters** TBA
 
 ## Agenda
 
