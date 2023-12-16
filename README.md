@@ -11,7 +11,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - **Live-stream and full recording:** TBA
 - **Photos:** TBA
 
-**Call for posters**: please rehistere you interest in presenting a poster [here](https://forms.gle/7KpF6JnxvdnaHXCS6).
+**Call for posters**: please register your interest in presenting a poster [here](https://forms.gle/7KpF6JnxvdnaHXCS6).
 
 ## Agenda
 
