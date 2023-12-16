@@ -1,6 +1,6 @@
 # AI@City Fringe Event
 
-[Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](ring.ac.uk/).
+*Proposed* [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](ring.ac.uk/).
 
 This event aims at showcasing the AI research conducted at [City, University of London](https://www.city.ac.uk/), a member of the [Turing University Network](https://www.turing.ac.uk/turing-university-network). Attendance to the event is open to everyone. Poster and oral presentations by invitation.
 
@@ -11,7 +11,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - **Live-stream and full recording:** TBA
 - **Photos:** TBA
 
-**Call for posters** TBA
+**Call for posters**: please rehistere you interest in presenting a poster [here](https://forms.gle/7KpF6JnxvdnaHXCS6).
 
 ## Agenda
 
@@ -26,7 +26,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA)
 - Member from CitAI group (Department of Computer Science)
 - Member from the ACS-ML group (Department of Computer Science) 
-- Member from the Department of Engineering
+- [Prof. Caroline Li](https://www.linkedin.com/in/prof-caroline-ling-li-80b3596/) (Department of Engineering)
 - Member from the Department of Mathematics
   
 12:30-13:45 &ensp; Lunch and Networking (1h15min)
@@ -41,7 +41,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
 
-16:30-17:00 &ensp; Panel about the Future of AI @ City and Project opportunities
+16:30-17:00 &ensp; Panel about the Future of AI @ City and project opportunities
 
 17:00-17:15 &ensp; Closing
  
