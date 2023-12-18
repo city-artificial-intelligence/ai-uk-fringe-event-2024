@@ -1,4 +1,4 @@
-# AI@City Fringe Event
+# AI@City Fringe Event 2024
 
 *Proposed* [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](ring.ac.uk/).
 
