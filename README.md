@@ -27,7 +27,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - Member from CitAI group (Department of Computer Science)
 - Member from the ACS-ML group (Department of Computer Science) 
 - [Prof. Caroline Li](https://www.linkedin.com/in/prof-caroline-ling-li-80b3596/) (Department of Engineering)
-- Member from the Department of Mathematics
+- [Prof. Mark Broom](https://www.city.ac.uk/about/people/academics/mark-broom) (Department of Mathematics)
   
 12:30-13:45 &ensp; Lunch and Networking (1h15min)
 
@@ -35,7 +35,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA)
 - [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Bussiness school)
-- [Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
+- [Dr. Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
 - TBC
 
