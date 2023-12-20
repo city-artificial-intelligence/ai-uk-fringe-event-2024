@@ -19,7 +19,10 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 9:30-09:45 &ensp; Welcome to the Fringe event.
 
-9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions)
+9:45-10:30 &ensp; Keynote (30 min + 15 min questions)
+> **Speaker:**  Prof. [Michael Fisher](https://web.cs.manchester.ac.uk/~michael/) (University of Manchester)
+> 
+> **Bio:** Royal Academy of Engineering Chair in Emerging Technologies in the Department of Computer Science at the University of Manchester. He is also a Fellow of both BCS and IET, and sit on the EPSRC's Strategic Advisory Network. He also chairs the BSI Committee on Sustainable Robotics, co-chair the IEEE Technical Committee on the Verification of Autonomous Systems, and am a member of both the BSI AMT/10 committee on Robotics and the IEEE P7009 Standards committee on Fail-Safe Design of Autonomous Systems.
 
 10:30-11:30 &ensp; Coffe break and Poster session (1h)
 
@@ -41,7 +44,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
 
-16:30-17:00 &ensp; Panel about the Future of AI @ City and project opportunities
+16:30-17:00 &ensp; Panel about the Reliability, Safety, and Fairness in Ai Systems.
 
 17:00-17:15 &ensp; Closing
  
