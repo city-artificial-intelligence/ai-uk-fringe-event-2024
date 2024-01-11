@@ -1,6 +1,6 @@
 # AI@City Fringe Event 2024
 
-*Proposed* [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
+*Proposed* [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) organised by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 This event aims at showcasing the AI research conducted at [City, University of London](https://www.city.ac.uk/), a member of the [Turing University Network](https://www.turing.ac.uk/turing-university-network). Attendance to the event is open to everyone. Poster and oral presentations by invitation.
 
@@ -20,12 +20,12 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 9:30-09:45 &ensp; Welcome to the Fringe event.
 
-9:45-10:30 &ensp; Keynote (30 min + 15 min questions)
+9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions)
 > **Speaker:**  [Prof. Michael Fisher](https://web.cs.manchester.ac.uk/~michael/) (University of Manchester)
 > 
 > **Bio:** Royal Academy of Engineering Chair in Emerging Technologies in the Department of Computer Science at the University of Manchester. He is also a Fellow of both BCS and IET, and sit on the EPSRC's Strategic Advisory Network. He also chairs the BSI Committee on Sustainable Robotics, co-chair the IEEE Technical Committee on the Verification of Autonomous Systems, and am a member of both the BSI AMT/10 committee on Robotics and the IEEE P7009 Standards committee on Fail-Safe Design of Autonomous Systems.
 
-10:30-11:30 &ensp; Coffe break and Poster session (1h)
+10:30-11:30 &ensp; Coffee break and Poster session (1h)
 
 11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA)
 - [Dr. Marc Serramia Amoros](https://www.city.ac.uk/about/people/academics/marc-serramia-amoros) ([CitAI](https://cit-ai.net/), Department of Computer Science) 
@@ -38,7 +38,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions)
 
 14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA)
-- [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Bussiness school)
+- [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Business school)
 - [Dr. Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
 - TBC
