@@ -6,7 +6,8 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 - **When:** March 6, 2024 (9:00-17:15 GMT)
 - **Where:** [City, University of London](https://www.city.ac.uk/), Lecture Theatre B200, University Building. How to get to the [University building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200). How to get to the [B200 (TBA)]() area.
-- **Format:** Up to 200 participants <ins>in person</ins> and live-streamed for online participants. 
+- **Format:** Up to 200 participants <ins>in person</ins> and live-streamed for online participants.
+- **Organisers:** [Prof. Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso), [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/) and [Dr. Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz).
 - **Registration:** TBA
 - **Live-stream and full recording:** TBA
 - **Photos:** TBA
@@ -20,7 +21,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 9:30-09:45 &ensp; Welcome to the Fringe event.
 
 9:45-10:30 &ensp; Keynote (30 min + 15 min questions)
-> **Speaker:**  Prof. [Michael Fisher](https://web.cs.manchester.ac.uk/~michael/) (University of Manchester)
+> **Speaker:**  [Prof. Michael Fisher](https://web.cs.manchester.ac.uk/~michael/) (University of Manchester)
 > 
 > **Bio:** Royal Academy of Engineering Chair in Emerging Technologies in the Department of Computer Science at the University of Manchester. He is also a Fellow of both BCS and IET, and sit on the EPSRC's Strategic Advisory Network. He also chairs the BSI Committee on Sustainable Robotics, co-chair the IEEE Technical Committee on the Verification of Autonomous Systems, and am a member of both the BSI AMT/10 committee on Robotics and the IEEE P7009 Standards committee on Fail-Safe Design of Autonomous Systems.
 
