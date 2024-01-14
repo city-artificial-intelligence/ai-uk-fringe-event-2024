@@ -44,7 +44,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Business school)
 - [Dr. Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
-- TBC
+- [Dr Stephanie Alice Baker](https://www.city.ac.uk/about/people/academics/stephanie-alice-baker) (School of Policy & Global Affairs )
 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
 
