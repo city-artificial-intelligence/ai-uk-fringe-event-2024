@@ -8,11 +8,14 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - **Where:** [City, University of London](https://www.city.ac.uk/), Lecture Theatre B200, University Building. How to get to the [University building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200). How to get to the [B200 (TBA)]() area.
 - **Format:** Up to 200 participants <ins>in person</ins> and live-streamed for online participants.
 - **Organisers:** [Prof. Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso), [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/) and [Dr. Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz).
-- **Registration:** TBA
-- **Live-stream and full recording:** TBA
+- **Live-stream and full recording:** [access link](https://echo360.org.uk/section/14adea58-2680-4163-9478-cb8f526a7bb7/public)
 - **Photos:** TBA
 
-**Call for posters**: please register your interest in presenting a poster [here](https://forms.gle/7KpF6JnxvdnaHXCS6). Deadline January 31, 2024.
+**Registration:** please register your attendance by filling [this form](https://forms.gle/psAjdsmmEL9ceQje8). Deadline, February 14, 2024
+
+**Call for posters**: please register your interest in presenting a poster [here](https://forms.gle/7KpF6JnxvdnaHXCS6). Deadline February 14, 2024. Notification of acceptance by February 21, 2024.
+
+
 
 ## Agenda
 
