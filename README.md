@@ -51,7 +51,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
 
-16:30-17:00 &ensp; Panel about the Reliability, Safety, and Fairness in AI Systems.
+16:30-17:15 &ensp; Panel about the Reliability, Safety, and Fairness in AI Systems.
 
-17:00-17:15 &ensp; Closing
+17:15-17:30 &ensp; Closing
  
