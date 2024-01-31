@@ -32,9 +32,9 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA)
 - [Dr. Marc Serramia Amoros](https://www.city.ac.uk/about/people/academics/marc-serramia-amoros) ([CitAI](https://cit-ai.net/), Department of Computer Science) 
-- [Dr. Pranava Madhyastha](https://www.city.ac.uk/about/people/academics/pranava-madhyastha) ([ACS-ML](https://www.city.ac.uk/research/centres/acsml), Department of Computer Science)
 - [Prof. Caroline Li](https://www.linkedin.com/in/prof-caroline-ling-li-80b3596/) (Department of Engineering)
 - [Prof. Robert Noble](https://robjohnnoble.github.io/) (Department of Mathematics)
+- [Dr. Pranava Madhyastha](https://www.city.ac.uk/about/people/academics/pranava-madhyastha) ([ACS-ML](https://www.city.ac.uk/research/centres/acsml), Department of Computer Science)
   
 12:30-13:45 &ensp; Lunch and Networking (1h15min)
 
