@@ -57,9 +57,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 17:15-17:30 &ensp; Closing
 
 <br>
-![Fringe](ai-city-fringe.png)
 <p align="center">
-<img src="https://raw.githubusercontent.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/ai-city-fringe.png" width="550" alt="fringe">
+<img src="[https://raw.githubusercontent.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/ai-city-fringe.png](https://raw.githubusercontent.com/city-artificial-intelligence/ai-uk-fringe-event-2024/f6abff0a7b86cdb4ee801ca0471a8042264ab4f3/ai-city-fringe.png)https://raw.githubusercontent.com/city-artificial-intelligence/ai-uk-fringe-event-2024/f6abff0a7b86cdb4ee801ca0471a8042264ab4f3/ai-city-fringe.png" width="550" alt="fringe">
 </p>
-[
- 
+
