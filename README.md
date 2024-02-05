@@ -55,4 +55,11 @@ This event aims at showcasing the AI research conducted at [City, University of 
 >  Panelists: [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni), [Prof. Robin Bloomfield](https://www.city.ac.uk/about/people/academics/robin-bloomfield), [Prof. Andrea Baronchelli](https://www.city.ac.uk/about/people/academics/andrea-baronchelli)
 
 17:15-17:30 &ensp; Closing
+
+<br>
+![Fringe](ai-city-fringe.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/ai-city-fringe.png" width="550" alt="fringe">
+</p>
+[
  
