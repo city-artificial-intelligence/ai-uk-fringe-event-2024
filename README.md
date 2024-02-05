@@ -1,6 +1,6 @@
 # AI@City Fringe Event 2024
 
-*Proposed* [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) organised by [The Alan Turing Institute](https://www.turing.ac.uk/).
+[Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) organised by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 This event aims at showcasing the AI research conducted at [City, University of London](https://www.city.ac.uk/), a member of the [Turing University Network](https://www.turing.ac.uk/turing-university-network). Attendance to the event is open to everyone. Poster and oral presentations by invitation.
 
@@ -52,6 +52,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
 
 16:30-17:15 &ensp; Panel about the Reliability, Safety, and Fairness in AI Systems.
+>  Panelists: [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni), [Prof. Robin Bloomfield](https://www.city.ac.uk/about/people/academics/robin-bloomfield), [Prof. Andrea Baronchelli](https://www.city.ac.uk/about/people/academics/andrea-baronchelli)
 
 17:15-17:30 &ensp; Closing
  
