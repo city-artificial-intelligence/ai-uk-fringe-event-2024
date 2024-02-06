@@ -40,7 +40,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
   
 12:30-13:45 &ensp; Lunch and Networking (1h15min)
 
-13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions).  Session Chair: [Pranava Madhyastha](https://www.city.ac.uk/about/people/academics/pranava-madhyastha)
+13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions).  Session Chair: [Dr. Pranava Madhyastha](https://www.city.ac.uk/about/people/academics/pranava-madhyastha)
 > **Speaker:**  [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni) (Imperial College London)
 > 
 > **Bio:** Professor in Computational Logic and Royal Academy of Engineering/JP Morgan Research Chair in Argumentation-based Interactive Explainable AI, in the Department of Computing at Imperial College London, where she is a member of the Artificial Intelligence research theme and the leader of the CLArg (Computational Logic and Argumentation) research group. She is also a member of the GLAM research group and of the AI@Imperial Network of Excellence at Imperial College London, and the founding leader of the Centre for eXplainable AI (XAI).
