@@ -1,4 +1,4 @@
-# AI@City Fringe Event 2024
+# AI@City AI UK Fringe Event 2024
 
 [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) organised by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
@@ -22,16 +22,17 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 9:00-09:30 &ensp; Registration, poster set up and coffee.
 
-9:30-09:45 &ensp; Welcome to the Fringe event.
+9:30-09:45 &ensp; Welcome to the Fringe event
+> By [Prof. Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso), [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/) and [Dr. Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz).
 
-9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions)
+9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions). Session Chair: [Prof. Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso)
 > **Speaker:**  [Prof. Michael Fisher](https://web.cs.manchester.ac.uk/~michael/) (University of Manchester)
 > 
 > **Bio:** Royal Academy of Engineering Chair in Emerging Technologies in the Department of Computer Science at the University of Manchester. He is also a Fellow of both BCS and IET, and sit on the EPSRC's Strategic Advisory Network. He also chairs the BSI Committee on Sustainable Robotics, co-chair the IEEE Technical Committee on the Verification of Autonomous Systems, and am a member of both the BSI AMT/10 committee on Robotics and the IEEE P7009 Standards committee on Fail-Safe Design of Autonomous Systems.
 
 10:30-11:30 &ensp; Coffee break and Poster session (1h)
 
-11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA)
+11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA).  Session Chair: TBC.
 - [Dr. Marc Serramia Amoros](https://www.city.ac.uk/about/people/academics/marc-serramia-amoros) ([CitAI](https://cit-ai.net/), Department of Computer Science) 
 - [Prof. Caroline Li](https://www.linkedin.com/in/prof-caroline-ling-li-80b3596/) (Department of Engineering)
 - [Dr. Robert Noble](https://robjohnnoble.github.io/) (Department of Mathematics)
@@ -39,12 +40,12 @@ This event aims at showcasing the AI research conducted at [City, University of 
   
 12:30-13:45 &ensp; Lunch and Networking (1h15min)
 
-13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions)
+13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions).  Session Chair: [Pranava Madhyastha](https://www.city.ac.uk/about/people/academics/pranava-madhyastha)
 > **Speaker:**  [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni) (Imperial College London)
 > 
 > **Bio:** Professor in Computational Logic and Royal Academy of Engineering/JP Morgan Research Chair in Argumentation-based Interactive Explainable AI, in the Department of Computing at Imperial College London, where she is a member of the Artificial Intelligence research theme and the leader of the CLArg (Computational Logic and Argumentation) research group. She is also a member of the GLAM research group and of the AI@Imperial Network of Excellence at Imperial College London, and the founding leader of the Centre for eXplainable AI (XAI).
 
-14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA)
+14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA).   Session Chair: TBC.
 - [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Business school)
 - [Dr. Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
@@ -53,7 +54,8 @@ This event aims at showcasing the AI research conducted at [City, University of 
 15:30-16:30 &ensp; Coffee Break and Poster session (1h)
 
 16:30-17:15 &ensp; Panel about the Reliability, Safety, and Fairness in AI Systems.
->  Panelists: [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni), [Prof. Robin Bloomfield](https://www.city.ac.uk/about/people/academics/robin-bloomfield), [Prof. Andrea Baronchelli](https://www.city.ac.uk/about/people/academics/andrea-baronchelli)
+> Panel Moderator: [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/)
+> Panelists: [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni), [Prof. Robin Bloomfield](https://www.city.ac.uk/about/people/academics/robin-bloomfield), [Prof. Andrea Baronchelli](https://www.city.ac.uk/about/people/academics/andrea-baronchelli)
 
 17:15-17:30 &ensp; Closing
 
