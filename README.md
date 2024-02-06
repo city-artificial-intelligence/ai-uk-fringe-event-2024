@@ -32,7 +32,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 10:30-11:30 &ensp; Coffee break and Poster session (1h)
 
-11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA).  Session Chair: TBC.
+11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA).  Session Chair: [Dr. Esther Mondragon](https://www.city.ac.uk/about/people/academics/esther-mondragon).
 - [Dr. Marc Serramia Amoros](https://www.city.ac.uk/about/people/academics/marc-serramia-amoros) ([CitAI](https://cit-ai.net/), Department of Computer Science) 
 - [Prof. Caroline Li](https://www.linkedin.com/in/prof-caroline-ling-li-80b3596/) (Department of Engineering)
 - [Dr. Robert Noble](https://robjohnnoble.github.io/) (Department of Mathematics)
