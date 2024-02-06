@@ -11,7 +11,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - **Live-stream and full recording:** [access link](https://echo360.org.uk/section/14adea58-2680-4163-9478-cb8f526a7bb7/public)
 - **Media:** To be added.
 
-**Registration:** please register your attendance by filling [this form](https://forms.office.com/e/ZFRHudgTQy). Deadline, February 14, 2024
+**Registration:** please register your in-person attendance by filling [this form](https://forms.office.com/e/ZFRHudgTQy). Deadline, February 14, 2024
 <!--[this form](https://forms.gle/psAjdsmmEL9ceQje8). Deadline, February 14, 2024-->
 
 **Call for posters**: please register your interest in presenting a poster [here](https://forms.gle/7KpF6JnxvdnaHXCS6). Deadline February 14, 2024. Notification of acceptance by February 21, 2024.
