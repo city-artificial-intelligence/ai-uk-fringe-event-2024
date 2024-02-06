@@ -55,6 +55,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 16:30-17:15 &ensp; Panel about the Reliability, Safety, and Fairness in AI Systems.
 > Panel Moderator: [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/)
+> 
 > Panelists: [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni), [Prof. Robin Bloomfield](https://www.city.ac.uk/about/people/academics/robin-bloomfield), [Prof. Andrea Baronchelli](https://www.city.ac.uk/about/people/academics/andrea-baronchelli)
 
 17:15-17:30 &ensp; Closing
