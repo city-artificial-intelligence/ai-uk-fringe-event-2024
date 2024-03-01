@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/edit/main/README.md#aicity-ai-uk-fringe-event-2024"><img src="https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/ai-city-fringe.png?raw=true" width="750" alt="fringe"></a>
+</p>
+
+
 # AI@City AI UK Fringe Event 2024
 
 [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) organised by [The Alan Turing Institute](https://www.turing.ac.uk/).
@@ -60,8 +65,24 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 17:15-17:30 &ensp; Closing
 
+**Posters:**
+- Riad Ibadulla (City): *Fat-U-Net: Non-Contracting U-Net for Free-Space Optical Neural Networks*
+- Qiqi Su (City): *Modular Neural Networks for Time Series Forecasting: Interpretability  and Feature Selection using Attention*
+- Daniel Sikar (City): *The Role of Game Engines in Autonomous System Safety*
+- Alex Dean (City): *Algebras of actions in an agent's representations of the world*
+- Sergio Naval (City): *Marimont	DISYRE: DIFFUSION-INSPIRED SYNTHETIC RESTORATION FOR UNSUPERVISED ANOMALY DETECTION*
+- Nitisha Jain (KCL): *Semantic Interpretations of Multimodal Embeddings towards Explainable AI*
+- Kimberley Verity (City): *New rooted-tree indices*
+- Hao Ma (Queen Mary): *Rethinking Machine Learning Superiority: The Model-Based Edge in Asset Pricing*
+- Sevinj Teymurova (City): *Aligning network of ontologies using Graph AI*
+- Minhal Mahmood (City): *Self-Engineering of Domestic Smart Appliances using AR&VR Technologies*
+- Professor Richard Curran (City): *Using AI for AI! (or Artificial Inteligence for Aviation Inteligence!.)* 
+- Constanza Musso (City): *AI Advice-Taking in Financial Decision-Making: The Role of Preference on Advice Integration*
+- Sandamali Wickramasinghe (City): *Verifying AI systems via learning*
+- Alex Clay (City): *Social Conversational Agents with Semantic Memory through Dynamic Knowledge Graph Embeddings and Recommendation*
+- Dmitrii Riabchenko (City): *Machine Learning Clifford invariants of ADE Coxeter elements*
+- David Tena Cucala (University of Oxford): *Correspondences between Graph Neural Networks and Datalog*
+- Lorenzo Belenguer (City): *AI Bias A suggestion for a framework of actions to detect, mitigate and reduce discriminatory bias*
+
 <br>
-<p align="center">
-<img src="https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/ai-city-fringe.png?raw=true" width="750" alt="fringe">
-</p>
 
