@@ -33,8 +33,12 @@ This event aims at showcasing the AI research conducted at [City, University of 
 
 9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions). Session Chair: [Prof. Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso)
 > **Speaker:**  [Prof. Michael Fisher](https://web.cs.manchester.ac.uk/~michael/) (University of Manchester)
+>
+>  **Title:** Is there a path to Trustworthy AI?
+>
+> **Abstract:** AI is very popular at present. But when we deploy it, especially in important or even critical situations, do we know what this use of AI will result in? And should we trust it to always work "well"? I will discuss general issues around the development of Trustworthy AI, and the broader governance of AI. These include verification (does it work?), beneficiality (is it working for our benefit?), and the analysis of these both before and after deployment.
 > 
-> **Bio:** Royal Academy of Engineering Chair in Emerging Technologies in the Department of Computer Science at the University of Manchester. He is also a Fellow of both BCS and IET, and sit on the EPSRC's Strategic Advisory Network. He also chairs the BSI Committee on Sustainable Robotics, co-chair the IEEE Technical Committee on the Verification of Autonomous Systems, and am a member of both the BSI AMT/10 committee on Robotics and the IEEE P7009 Standards committee on Fail-Safe Design of Autonomous Systems.
+> **Bio:** Michael Fisher is a Professor of Computer Science and the Royal Academy of Engineering Chair in Emerging Technologies in the Department of Computer Science at the University of Manchester. His research concerns autonomous systems, particularly verification, software engineering, self-awareness, and trustworthiness, with applications across robotics and autonomous vehicles. Increasingly, his work encompasses not just safety but broader ethical issues such as sustainability and responsibility across these (AI, Autonomous Systems, IoT, Robotics, etc) technologies. Fisher co-chairs the IEEE Technical Committee on the Verification of Autonomous Systems, chairs the BSI Committee on Sustainable Robotics, is a member of  the IEEE P7009 Standards committee on Fail-Safe Design of Autonomous Systems, and is a member of the Strategy Group of the UK's Responsible AI programme. He is currently on secondment (2 days per week) to the UK Government's Department for Science, Innovation and Technology, advising on issues around AI and Robotics.
 
 10:30-11:30 &ensp; Coffee break and [Poster session](https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/README.md#posters) (1h)
 
@@ -49,7 +53,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions).  Session Chair: [Dr. Pranava Madhyastha](https://www.city.ac.uk/about/people/academics/pranava-madhyastha)
 > **Speaker:**  [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni) (Imperial College London)
 > 
-> **Bio:** Professor in Computational Logic and Royal Academy of Engineering/JP Morgan Research Chair in Argumentation-based Interactive Explainable AI, in the Department of Computing at Imperial College London, where she is a member of the Artificial Intelligence research theme and the leader of the CLArg (Computational Logic and Argumentation) research group. She is also a member of the GLAM research group and of the AI@Imperial Network of Excellence at Imperial College London, and the founding leader of the Centre for eXplainable AI (XAI).
+> **Bio:** Francesca Toni is a Professor in Computational Logic and Royal Academy of Engineering/JP Morgan Research Chair in Argumentation-based Interactive Explainable AI, in the Department of Computing at Imperial College London, where she is a member of the Artificial Intelligence research theme and the leader of the CLArg (Computational Logic and Argumentation) research group. She is also a member of the GLAM research group and of the AI@Imperial Network of Excellence at Imperial College London, and the founding leader of the Centre for eXplainable AI (XAI).
 
 14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA).   Session Chair: TBC.
 - [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Business school)
