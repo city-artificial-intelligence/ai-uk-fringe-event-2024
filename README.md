@@ -5,7 +5,7 @@
 This event aims at showcasing the AI research conducted at [City, University of London](https://www.city.ac.uk/), a member of the [Turing University Network](https://www.turing.ac.uk/turing-university-network). Attendance to the event is open to everyone. Poster and oral presentations by invitation.
 
 - **When:** March 6, 2024 (9:00-17:15 GMT)
-- **Where:** [City, University of London](https://www.city.ac.uk/), Lecture Theatre B200, University Building. How to get to the [University building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200). How to get to the [B200 (TBA)]() area.
+- **Where:** [City, University of London](https://www.city.ac.uk/), Lecture Theatre B200, University Building. How to get to the [University building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200). How to get to the [B200 LT](https://drive.google.com/file/d/1sefJWNjlzkJ4bTClw7mfdLsAOyoBFvWx/view?usp=sharing) area.
 - **Format:** Up to 200 participants <ins>in person</ins> and live-streamed for online participants.
 - **Organisers:** [Prof. Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso), [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/) and [Dr. Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz).
 - **Live-stream and full recording:** [access link](https://echo360.org.uk/section/14adea58-2680-4163-9478-cb8f526a7bb7/public)
