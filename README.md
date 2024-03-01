@@ -66,6 +66,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 17:15-17:30 &ensp; Closing
 
 <br>
+
 ### Posters:
 - Riad Ibadulla (City): *Fat-U-Net: Non-Contracting U-Net for Free-Space Optical Neural Networks*
 - Qiqi Su (City): *Modular Neural Networks for Time Series Forecasting: Interpretability  and Feature Selection using Attention*
