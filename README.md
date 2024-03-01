@@ -77,7 +77,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - Qiqi Su (City): *Modular Neural Networks for Time Series Forecasting: Interpretability  and Feature Selection using Attention*
 - Daniel Sikar (City): *The Role of Game Engines in Autonomous System Safety*
 - Alex Dean (City): *Algebras of actions in an agent's representations of the world*
-- Sergio Naval (City): *Marimont	DISYRE: DIFFUSION-INSPIRED SYNTHETIC RESTORATION FOR UNSUPERVISED ANOMALY DETECTION*
+- Sergio Naval Marimont (City): *DISYRE: DIFFUSION-INSPIRED SYNTHETIC RESTORATION FOR UNSUPERVISED ANOMALY DETECTION*
 - Nitisha Jain (KCL): *Semantic Interpretations of Multimodal Embeddings towards Explainable AI*
 - Kimberley Verity (City): *New rooted-tree indices*
 - Hao Ma (Queen Mary): *Rethinking Machine Learning Superiority: The Model-Based Edge in Asset Pricing*
