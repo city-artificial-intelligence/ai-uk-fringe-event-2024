@@ -35,7 +35,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 > 
 > **Bio:** Royal Academy of Engineering Chair in Emerging Technologies in the Department of Computer Science at the University of Manchester. He is also a Fellow of both BCS and IET, and sit on the EPSRC's Strategic Advisory Network. He also chairs the BSI Committee on Sustainable Robotics, co-chair the IEEE Technical Committee on the Verification of Autonomous Systems, and am a member of both the BSI AMT/10 committee on Robotics and the IEEE P7009 Standards committee on Fail-Safe Design of Autonomous Systems.
 
-10:30-11:30 &ensp; Coffee break and Poster session (1h)
+10:30-11:30 &ensp; Coffee break and [Poster session](https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/README.md#posters) (1h)
 
 11:30-12:30 &ensp; Short Presentations from the School of Science and Technology (SST) (10min + 5 QA).  Session Chair: [Dr. Esther Mondragon](https://www.city.ac.uk/about/people/academics/esther-mondragon).
 - [Dr. Marc Serramia Amoros](https://www.city.ac.uk/about/people/academics/marc-serramia-amoros) ([CitAI](https://cit-ai.net/), Department of Computer Science) 
@@ -56,7 +56,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
 - [Dr Stephanie Alice Baker](https://www.city.ac.uk/about/people/academics/stephanie-alice-baker) (School of Policy & Global Affairs )
 
-15:30-16:30 &ensp; Coffee Break and Poster session (1h)
+15:30-16:30 &ensp; Coffee Break and [Poster session](https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/README.md#posters) (1h)
 
 16:30-17:15 &ensp; Panel about the Reliability, Safety, and Fairness in AI Systems.
 > Panel Moderator: [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/)
