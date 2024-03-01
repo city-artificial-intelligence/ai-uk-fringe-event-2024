@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/edit/main/README.md#aicity-ai-uk-fringe-event-2024"><img src="https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/ai-city-fringe.png?raw=true" width="750" alt="fringe"></a>
+<a href="https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/tree/main?tab=readme-ov-file#aicity-ai-uk-fringe-event-2024"><img src="https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/ai-city-fringe.png?raw=true" width="750" alt="fringe"></a>
 </p>
 
 
