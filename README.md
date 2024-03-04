@@ -47,6 +47,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - [Prof. Caroline Li](https://www.linkedin.com/in/prof-caroline-ling-li-80b3596/) (Department of Engineering)
   > Leveraging Data Science for Biomedical Research
 - [Dr. Robert Noble](https://robjohnnoble.github.io/) (Department of Mathematics)
+  > Opportunities for AI in cancer evolution research
 - [Dr. Pranava Madhyastha](https://www.city.ac.uk/about/people/academics/pranava-madhyastha) ([ACS-ML](https://www.city.ac.uk/research/centres/acsml), Department of Computer Science)
   > The LLM odyssey: an epistemological quandary
   
@@ -65,8 +66,9 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Business school)
   > CebAI: The Centre for Creativity enabled by AI
 - [Dr. Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
+  > AI governance considerations: looking into healthcare applications
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
-- [Dr Stephanie Alice Baker](https://www.city.ac.uk/about/people/academics/stephanie-alice-baker) (School of Policy & Global Affairs )
+- [Dr Stephanie Alice Baker](https://www.city.ac.uk/about/people/academics/stephanie-alice-baker) (School of Policy & Global Affairs)
 
 15:30-16:30 &ensp; Coffee Break and [Poster session](https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/README.md#posters) (1h)
 
