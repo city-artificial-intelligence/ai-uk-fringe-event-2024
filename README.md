@@ -61,7 +61,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 > 
 > **Bio:** Francesca Toni is a Professor in Computational Logic and Royal Academy of Engineering/JP Morgan Research Chair in Argumentation-based Interactive Explainable AI, in the Department of Computing at Imperial College London, where she is a member of the Artificial Intelligence research theme and the leader of the CLArg (Computational Logic and Argumentation) research group. She is also a member of the GLAM research group and of the AI@Imperial Network of Excellence at Imperial College London, and the founding leader of the Centre for eXplainable AI (XAI).
 
-14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA).   Session Chair: TBC.
+14:30-15:30 &ensp; Short presentation beyond SST (10min + 5 QA).   Session Chair: [Dr. Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz).
 - [Prof. Neil Maiden](https://www.bayes.city.ac.uk/faculties-and-research/experts/neil-maiden)	(Bayes Business school)
   > CebAI: The Centre for Creativity enabled by AI
 - [Dr. Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
