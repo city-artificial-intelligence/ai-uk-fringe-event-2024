@@ -70,6 +70,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
   > AI governance considerations: looking into healthcare applications
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
 - [Dr Stephanie Alice Baker](https://www.city.ac.uk/about/people/academics/stephanie-alice-baker) (School of Policy & Global Affairs)
+  > AI, Disinformation and Influencers
 
 15:30-16:30 &ensp; Coffee Break and [Poster session](https://github.com/city-artificial-intelligence/ai-uk-fringe-event-2024/blob/main/README.md#posters) (1h)
 
