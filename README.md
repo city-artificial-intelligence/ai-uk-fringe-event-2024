@@ -69,7 +69,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - [Dr. Christina Malamateniou](https://www.city.ac.uk/about/people/academics/christina-malamateniou)	(School of Health & Psychological Sciences)
   > AI governance considerations: looking into healthcare applications
 - [Prof. Franklyn Howe](https://www.sgul.ac.uk/profiles/franklyn-howe) (St George's, University of London)
-  >  Automated analysis of multimodal MRI to develop diagnostic and prognostic markers of disease and treatment response (TBC)
+  >  AI for Brain Tumours
 - [Dr Stephanie Alice Baker](https://www.city.ac.uk/about/people/academics/stephanie-alice-baker) (School of Policy & Global Affairs)
   > AI, Disinformation and Influencers
 
