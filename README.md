@@ -15,7 +15,7 @@ This event aims at showcasing the AI research conducted at [City, University of 
 - **Format:** Up to 200 participants <ins>in person</ins> and live-streamed for online participants.
 - **Organisers:** [Prof. Eduardo Alonso](https://www.city.ac.uk/about/people/academics/eduardo-alonso), [Prof. Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/) and [Dr. Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz).
 - **Live-stream and full recording:** [access link](https://echo360.org.uk/section/14adea58-2680-4163-9478-cb8f526a7bb7/public)
-- **Media:** To be added.
+- **Media:** [Photos](https://photos.app.goo.gl/ReqkRYsTTeckoef8A).
 
 **Registration:** please register your **in-person** attendance by filling [this form](https://forms.office.com/e/ZFRHudgTQy). Deadline, February 16, 2024.
 <!--[this form](https://forms.gle/psAjdsmmEL9ceQje8). Deadline, February 14, 2024-->
